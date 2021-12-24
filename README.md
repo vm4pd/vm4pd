@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me vm4pd@wtitter
+- 📫 How to reach me vm4pd@twitter
 
 <!---
 vm4pd/vm4pd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
